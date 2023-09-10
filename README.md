@@ -2,7 +2,7 @@
 
 To use my theme, follow the steps below:
 
-Step 1: clone or download the plugin to your guacamole 
+Step 1: clone or download the plugin geek2gether-theme.jar to your guacamole 
 
 Step 2: move it to your guacamole root directory "extensions" folder.
 
