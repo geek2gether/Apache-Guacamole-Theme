@@ -1,5 +1,15 @@
 # Apache-Guacamole-Theme
 
+The geek2gether-theme.jar file is a container type file like a .zip archive, which means it contains files. You should be able to use archive manager programs like 7-zip to open the .jar file and view/edit the files contained within it.
+
+The internal file structure is basically:
+
+css  -> contians the custom css file. Use this file to customize css.
+html  -> contains custom html file, header.html which adss the header on the login page. (Can be removed if not needed.)
+images  -> contains the logo file. logo file as .png, replace the template logo with your custom logo.
+translations  -> en.json (file) and other language files as needed.
+guac-manifest.json file which ties all the parts together so Guacamole knows what to use.
+
 To use my theme, follow the steps below:
 
 Step 1: clone or download the plugin geek2gether-theme.jar to your guacamole 
