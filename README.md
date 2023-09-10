@@ -1,6 +1,6 @@
 # Apache-Guacamole-Theme
 
-The geek2gether-theme.jar file is a container type file like a .zip archive, which means it contains files. You should be able to use archive manager programs like 7-zip to open the .jar file and view/edit the files contained within it.
+If you stumbled on this repo it means you are looking for a custom theme for Apache guacamole or you watched my youtube video. The template theme i have is 100% free to use. The geek2gether-theme.jar file is a container type file like a .zip archive, which means it contains files. You should be able to use archive manager programs like 7-zip to open the .jar file and view/edit the files contained within it.
 
 The internal file structure is basically:
 
@@ -13,6 +13,8 @@ images  ------> contains the logo file. logo file as .png, replace the template 
 translations  ------> en.json file and other language files as needed.
 
 guac-manifest.json ---------> file which ties all the parts together so Guacamole knows what to use.
+
+
 
 To use my theme, follow the steps below:
 
