@@ -50,19 +50,25 @@ The existing HTML structure of Guacamole interface can be modified through speci
 where SELECTOR is a CSS selector that matches the elements within the Guacamole interface that serve as a basis for the modification, and NAME is any one of the following defined modifications:
 
 before
+
 Inserts the specified HTML immediately before any element matching the CSS selector.
 
 after
+
 Inserts the specified HTML immediately after any element matching the CSS selector.
 
 replace
+
 Replaces any element matching the CSS selector with the specified HTML.
 
 before-children
+
 Inserts the specified HTML immediately before the first child (if any) of any element matching the CSS selector. If a matching element has no children, the HTML simply becomes the entire contents of the matching element.
 
 after-children
+
 Inserts the specified HTML immediately after the last child (if any) of any element matching the CSS selector. If a matching element has no children, the HTML simply becomes the entire contents of the matching element.
 
 replace-children
+
 Replaces the entire contents of any element matching the CSS selector with the specified HTML.
