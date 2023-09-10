@@ -20,7 +20,7 @@ After using my theme
 
 
 
-Adding CSS and Custom HTML Files
+Adding Custom CSS and HTML Files
 
 CSS
 
