@@ -11,7 +11,7 @@ Step 3: Restart guacd and tomcat.
 
 Before guacamole theme:
 
-![alt text](resources/guaca-login page.png)
+![alt text](resources/"guaca-login page.png")
 
 
 After using my theme
