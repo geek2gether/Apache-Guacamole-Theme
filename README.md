@@ -5,9 +5,13 @@ The geek2gether-theme.jar file is a container type file like a .zip archive, whi
 The internal file structure is basically:
 
 css  ------> contians the custom css file. Use this file to customize css.
+
 html ------> contains custom html file, header.html which adss the header on the login page. (Can be removed if not needed.)
+
 images  ------> contains the logo file. logo file as .png, replace the template logo with your custom logo.
+
 translations  ------> en.json file and other language files as needed.
+
 guac-manifest.json ---------> file which ties all the parts together so Guacamole knows what to use.
 
 To use my theme, follow the steps below:
