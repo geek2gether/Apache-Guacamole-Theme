@@ -11,7 +11,8 @@ Step 3: Restart guacd and tomcat.
 
 Before guacamole theme:
 
-![alt text]([http://url/to/img.png](https://github.com/geek2gether/Apache-Guacamole-Theme/blob/main/resources/geek2gether-branding.png)https://github.com/geek2gether/Apache-Guacamole-Theme/blob/main/resources/geek2gether-branding.png)
+![alt text]([Apache-Guacamole-Theme
+/resources/geek2gether-branding.png)
 
 
 After using my theme
