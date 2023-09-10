@@ -11,7 +11,7 @@ Step 3: Restart guacd and tomcat.
 
 Before guacamole theme:
 
-![alt text](Apache-Guacamole-Theme
+![alt text](
 /resources/geek2gether-branding.png)
 
 
